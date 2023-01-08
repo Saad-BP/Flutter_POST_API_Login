@@ -1,0 +1,9 @@
+//in this site
+https://reqres.in/
+//selecting option
+POST LOGIN - SUCCESSFUL
+//getting email and pass from the Request body
+{
+    "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
+}
